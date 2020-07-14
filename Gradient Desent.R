@@ -20,5 +20,6 @@ for(i in 1:n){
   
   }
 
-
+print(paste("Intercept =",th0))
+print(paste("Slope =",th1))
 
